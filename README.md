@@ -150,3 +150,7 @@ Casos soportados
 -Confirmación manual de mensajes
 -Prevención de duplicados por factura e idTransaccion.
 
+
+LINK VIDEO EXPLICACIÓN: 
+https://drive.google.com/drive/folders/1LpnixFd79NIyDKDUuGnETYmKdShWcmTJ?usp=sharing
+
